@@ -2,11 +2,11 @@
 Udacity data scientist nano degree program
 
 ### Table of Contents
-1. [Installation]
-2. [Project Motivation]
-3. [File Description]
-4. [Results]
-5. [Licensing, Authors, and Acknowledgements]
+1. Installation
+2. Project Motivation
+3. File Description
+4. Results
+5. Licensing, Authors, and Acknowledgements
 
 
 ## Installation
@@ -25,6 +25,17 @@ We want to know how Indian Progrmammers are using the various languages and what
 ## File Description
 
 You will need to download Stackoverflow’s 2017 Annual Developer Survey and put in specific folders. You can download the data and schema from this [link](https://www.kaggle.com/stackoverflow/so-survey-2017)
+StackOverflow-dataset.ipynb - The notebook which contains all the analysis.
+
+## Results
+
+The results are shared [here](https://capricioussunny.medium.com/analyzing-kaggle-dataset-stack-overflow-developer-survey-for-indian-programmers-d8465777359a)
+
+
+## Licensing, Authors, and Acknowledgements
+Sunny Anand is the author of this analysis. 
+The credit for data goes to both Kaggle and StackOverflow.
+
 
 
 
