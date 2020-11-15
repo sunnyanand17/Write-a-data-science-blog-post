@@ -1,4 +1,4 @@
-# Write-a-data-science-blog-post
+# Finding behavior of Indian programmers using stack overflow dataset
 Udacity data scientist nano degree program
 
 ### Table of Contents
@@ -15,6 +15,15 @@ Use the anaconda package manager for installing jupyter notebook in which all th
 Please follow the steps provided in this link based on your workstation environment. https://docs.anaconda.com/anaconda/install/
 
 ## Project Motivation
+
+### Dataset Description - Business Understanding
+Every year, Stack Overflow conducts a massive survey of people on the site, covering all sorts of information like programming languages, salary, code style and various other information. This year, they amassed more than 64,000 responses fielded from 213 countries.
+
+Data The data is made up of two files:
+
+survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name m Acknowledgements Data is directly taken from StackOverflow and licensed under the ODbL license.
+
+#### Questions of Interest, Data Understanding
 
 We want to know how Indian Progrmammers are using the various languages and what they want to learn as the next language.  So we asked three questions
 1. Which Programming languages are most favored by Indian Programmers?
